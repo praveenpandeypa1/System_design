@@ -1,5 +1,5 @@
    ***Systen design complete Notes:***
-      
+         
  System design: here system design means combo of both high and low level design:       
   high levl design:= it is the architecture of high level:    
     1)eg:= take an example of uber:
