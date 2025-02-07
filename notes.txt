@@ -1,6 +1,6 @@
  ***Systen design complete Notes:***
    
- System design: here system design means combo of both high and low level design:   
+ System design: here system design means combo of both high and low level design:       
   high levl design:= it is the architecture of high level: 
     1)eg:= take an example of uber:
       i)= here in uber the user page, order page, product page and all independent task that are divided into modules are high level design:
