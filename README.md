@@ -3,3 +3,4 @@ Welcome to the System Design Notes repository! This repository is a collection o
 It serves as a resource for understanding and mastering key system design topics, whether you're preparing for interviews, building scalable systems, or just learning for fun.
 
 ⭐ Don’t forget to star the repo if you find it helpful! 😊  
+  
